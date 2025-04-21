@@ -8,14 +8,8 @@
 
 💞️ I’m looking to collaborate on projects that can make a real-world impact, especially in healthcare tech like my project "Medic Fast"
 
-📫 How to reach me: [your email / LinkedIn / portfolio link here]
+📫 How to reach me: pandeyharsh73099@gmail.com | LinkedIn - www.linkedin.com/in/abhishek-pandey-8452622b8
 
 😄 Pronouns: He/Him
 
 ⚡ Fun fact: I can code for hours with just chai and a dream 🚀
-
-
-<!---
-Abhi03072003/Abhi03072003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
